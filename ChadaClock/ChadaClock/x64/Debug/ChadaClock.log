@@ -1,0 +1,3 @@
+﻿  ChadaClock.cpp
+C:\CS210Projects\ChadaClock\ChadaClock.cpp(225,1): warning C4715: 'ChadaClock::ReadUserInput': not all control paths return a value
+  ChadaClock.vcxproj -> C:\CS210Projects\ChadaClock\x64\Debug\ChadaClock.exe
